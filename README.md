@@ -26,7 +26,7 @@ general playlist and respective user’s playlist depending on the login. We use
 rendering the media stored on your machine and playing the music in the media player. User is also able
 to add his own music to the library. We used file handling for storing the Urls of the songs. Since we
 were storing only the URLs of the songs, the application was very light for deployment.
-* Team Size: 4
+Team Size: 4
 
 ## PROJECT  #2 
 Designed and developed a console based Airline Reservation Management System in C++. Here
@@ -47,14 +47,14 @@ WebMvc was used to integrate the services with web which works is a front End. M
 as a backend for Event and Token Service. Redis Cache is used as a backend for Cart Service. Stripe 
 Integration is used for processing the payments for user’s orders in Order Service. Rabbitmq is used for
 messaging service.
-* We wrote APIs for each microservice to access the service using APIs. Views on the webpage will
+We wrote APIs for each microservice to access the service using APIs. Views on the webpage will
 make a call to WebMvc which will in turn call controllers (Controllers are written for each Microservice).
 The controllers the call the respective service which will call the infrastructure to get the API paths and
 those API paths are used to query the Microservices for information. Microservice will return the
 requsted information to Infrastructure, which will be returned to respective service and then the service
 will return it to controllers. After this Controller will return the information to WebMvc which will return
 it to Views and which will be displayed using views.
-* Using Microservices for developing this application, we ensured the code is scalable for future
+Using Microservices for developing this application, we ensured the code is scalable for future
 requirementsand distributed in nature. We also dockerized the application and we hosted each
 microservice in one container on the docker. 
 Team size: 2
