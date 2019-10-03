@@ -60,18 +60,18 @@ microservice in one container on the docker.
 Team size: 2
 ## TEACHING EXPERIENCE
 # Manohar Phalke Polytechnic, Sion, Mumbai India 2002 - 2010
- * Head of the Computer Engineering Department 2006 - 2010
- Served as a member of Staff Selection Committee, Paper Setter, External Examiner, Member of
+* Head of the Computer Engineering Department 2006 - 2010
+* Served as a member of Staff Selection Committee, Paper Setter, External Examiner, Member of
  Curriculum Revision Project for (MSBTE).
-* Participated in starting Research and Development department for training and revenue
+* Participated in starting Research and Development department for training and revenue
 generation.
- * Organized many series of expert lectures on the latest developing trends in Computer Industry. 
+* Organized many series of expert lectures on the latest developing trends in Computer Industry. 
 # Lecturer in Computer Engineering Department 2002 - 2006
- * Teaching: Network Management, Data Communications and Networking, Computer Networks,
+* Teaching: Network Management, Data Communications and Networking, Computer Networks,
 Object Oriented Modeling and Design, Operating Systems, C, OOP-(C++), DBMS etc
- * Served as a Chairperson of Technical Paper selection committee for MP-ProEx 2007, 2008, 2010
- * Served as Convener for MP-ProEx in 2007,2008,2010
- * Organized intercollegiate Technical and Cultural Festivals, Blood Donation Camps in
+* Served as a Chairperson of Technical Paper selection committee for MP-ProEx 2007, 2008, 2010
+* Served as Convener for MP-ProEx in 2007,2008,2010
+* Organized intercollegiate Technical and Cultural Festivals, Blood Donation Camps in
 2005,2006,2009
 ## COMPUTER SKILLS
  * Languages: C, C++, Java, C#
@@ -80,11 +80,11 @@ Object Oriented Modeling and Design, Operating Systems, C, OOP-(C++), DBMS etc
  * In depth working knowledge of Dockerizing of applications using Kubernetes
  * Hands on experience in Postman,Rabbitmq
 ## AWARDS AND HONORS
-* Best Teacher Award – 2006 MPPM Sion, Mumbai.  
-* Ranked 3rd in Undergraduate Program. 
-* Secured the Government of Maharashtra Merit seat for Undergraduate Program 
+ * Best Teacher Award – 2006 MPPM Sion, Mumbai.  
+ * Ranked 3rd in Undergraduate Program. 
+ * Secured the Government of Maharashtra Merit seat for Undergraduate Program 
 ## INTERESTS / HOBBIES
-* Learning new techniques to solve complex math problems, solving puzzles and riddles.
+ * Learning new techniques to solve complex math problems, solving puzzles and riddles.
 
 
 
