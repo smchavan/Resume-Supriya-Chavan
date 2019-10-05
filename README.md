@@ -10,6 +10,7 @@
  	* Languages: C, C++, Java, and C# , 
  	* DBMS Packages: MySQL, MS SQL, PL/SQL, and Redis Cache
  	* Web Technologies: HTML, CSS, DHTML, XML, XAML, and UWP App Development
+  * Hands on Experience in Kubernetes and RabbitMq
  	* In depth working knowledge of Dockerizing of applications using Kubernetes
   * Hands on Experience in Kubernetes and RabbitMq
   
