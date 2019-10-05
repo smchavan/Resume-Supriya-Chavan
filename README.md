@@ -3,16 +3,15 @@
 #                                                         Phone: +1-443-825-2399                                    
 ##                                                   Email: supriyasonvane2@gmail.com
 ## PROFILE:
- 	* Graduate in Computer Science and Information Technology with strong algorithms and programming foundation 
+ 	* Graduate in Computer Science and Information Technology with strong algorithms and programming foundation
     developed through  education  and years of teaching experience
- 	* Innate Problem Solving Skills afforded by excellent Math foundation 
+ 	* Innate Problem Solving Skills afforded by excellent Math foundation
  	* Love to work in teams to achieve common goals
  	* Languages: C, C++, Java, and C#
  	* DBMS Packages: MySQL, MS SQL, PL/SQL, and Redis Cache
  	* Web Technologies: HTML, CSS, DHTML, XML, XAML, and UWP App Development
- 	* In depth working knowledge of Dockerizing of applications using Kubernetes 
-  * Hands on Experience in Kubernetes and RabbitMq
- 
+ 	* In depth working knowledge of Dockerizing of applications using Kubernetes
+  * Hands on Experience in Kubernetes and RabbitMq 
 ## EDUCATION: 
 ### Master of Engineering in Information Technology, Mumbai University 			2003-2007
 * Graduated with distinction
