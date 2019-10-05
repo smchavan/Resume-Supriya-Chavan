@@ -2,10 +2,9 @@
 #                                                             Supriya Chavan
 #                                                         Phone: +1-443-825-2399                                    
 ##                                                   Email: supriyasonvane2@gmail.com
-
 ## PROFILE:
- 	* Graduate in Computer Science and Information Technology with strong algorithms and programming foundation developed 
-    through  education  and years of teaching experience. 
+ 	* Graduate in Computer Science and Information Technology with strong algorithms and programming foundation 
+    developed through  education  and years of teaching experience. 
  	* Innate Problem Solving Skills afforded by excellent Math foundation 
  	* Love to work in teams to achieve common goals
  	* Languages: C, C++, Java, and C# , 
