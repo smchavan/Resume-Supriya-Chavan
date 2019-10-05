@@ -9,9 +9,9 @@
  	* Love to work in teams to achieve common goals
  	* Languages: C, C++, Java, and C#
  	* DBMS Packages: MySQL, MS SQL, PL/SQL, and Redis Cache
- 	* Web Technologies: HTML, CSS, DHTML, XML, XAML, and UWP App Development
+ 	* Web Technologies: HTML, CSS, DHTML, XML, XAML, and UWP App Development,Rabbitmq
  	* In depth working knowledge of Dockerizing of applications using Kubernetes
-  * Hands on Experience in Kubernetes and RabbitMq 
+ 
 ## EDUCATION: 
 ### Master of Engineering in Information Technology, Mumbai University 			2003-2007
 * Graduated with distinction
