@@ -4,21 +4,23 @@
 ##                                                   Email: supriyasonvane2@gmail.com
 
 ## PROFILE:
- 	* Graduate in Computer Science and Information Technology with strong algorithms and programming foundation developed through  education  and years of teaching experience. 
+ 	* Graduate in Computer Science and Information Technology with strong algorithms and programming foundation developed 
+    through  education  and years of teaching experience. 
  	* Innate Problem Solving Skills afforded by excellent Math foundation 
  	* Love to work in teams to achieve common goals
  	* Languages: C, C++, Java, and C# , 
  	* DBMS Packages: MySQL, MS SQL, PL/SQL, and Redis Cache
  	* Web Technologies: HTML, CSS, DHTML, XML, XAML, and UWP App Development
  	* In depth working knowledge of Dockerizing of applications using Kubernetes
-  * Hands on experience in Postman and Rabbitmq
+  * Hands on Experience in Kubernetes and RabbitMq
   
 ## EDUCATION: 
 ### Master of Engineering in Information Technology, Mumbai University 			2003-2007
 * Graduated with distinction
 * Presented a thesis on Service Oriented Architecture
 * Developed an “Agent Based Crawler” to efficiently collect updated information from various  web servers while reducing network traffic by eliminating the need for frequent crawler visits to web servers.
-### Bachelor of engineering (Computer Science and Engineering) 1996-2000 Government College of Engineering, Affiliated to Dr. Babasaheb Ambedkar Marathwada University, Aurangabad, Maharashtra
+### Bachelor of engineering (Computer Science and Engineering) 1996-2000 
+Government College of Engineering, Affiliated to Dr. Babasaheb Ambedkar Marathwada University, Aurangabad, Maharashtra
 ## TECHNICAL EXPERIENCE:
 ### Software Development Bootcamp, Kal Academy, Redmond, WA		May 2019-Sept. 2019
 To refresh my Programming skills, recently, I completed a Software Development BootCamp at Kal Academy. As part of the BootCamp, I led a team of fellow participants to develop a Music Library app, using Universal Windows Platform, a console based Airline Reservation Management System using C++, and a functional event website using four micro services that supported Events, TokenService, Cart, and Order Management. Through the BootCamp projects, I was able to not only able to further hone my programming skills but also develop team work and learn new technologies like Dockerizing, Postman, and Kubernetes. Impressed with my performance during the BootCamp, I was offered a Teaching Assistant position at the Kal Academy. As a Teaching Assistant, I am helping other participants hone their algorithm and programming skills.
