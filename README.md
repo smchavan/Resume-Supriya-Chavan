@@ -31,15 +31,15 @@ Postman, and Kubernetes. Impressed with my performance during the BootCamp, I wa
 position at the Kal Academy to help other participants hone their algorithm and programming skills.
 ## TEACHING EXPERIENCE 
 Manohar Phalke Polytechnic, Sion, Mumbai India 					2002 - 2010 
- * Head of the Computer Engineering Department 2006 - 2010 
- * Served as a member of Staff Selection Committee, Paper Setter, External Examiner, Member of Curriculum Revision Project  for (MSBTE)
- * Participated in starting Research and Development department for training and revenue generation
- * Organized many series of expert lectures on the latest developing trends in Computer Industry 
- * Lecturer in Computer Engineering Department 2002 - 2006 
- * Teaching: Network Management, Data Communications and Networking, Computer Networks, Object Oriented Modeling and Design, Operating      Systems, C, OOP-(C++), DBMS etc. 
- * Served as a Chairperson of Technical Paper selection committee for MP-ProEx 2007, 2008, 2010. 
- * Served as Convener for MP-ProEx in 2007,2008,2010 
- * Organized intercollegiate Technical and Cultural Festivals, Blood Donation Camps in 2005,2006,2009 
+ * Head of the Computer Engineering Department 2006 - 2010
+ * Served as a member of Staff Selection Committee, Paper Setter, Curriculum Revision Project for MSBTE
+ * Participated in starting R&D for training and revenue generation
+ * Organized many series of expert lectures on the latest developing trends in Computer Industry
+ * Teaching: Network Management, Data Communications and Networking, Computer Networks, Object Oriented
+   Modeling and Design, Operating Systems, C, OOP-(C++), DBMS etc.
+ * Served as a Chairperson of Technical Paper selection committee for MP-ProEx 2007, 2008, 2010.
+ * Served as Convener for MP-ProEx in 2007,2008,2010
+ * Organized intercollegiate Technical and Cultural Festivals, Blood Donation Camps in 2005,2006,2009
 ## AWARDS AND HONORS 
  * Best Teacher Award – 2006 MPPM Sion, Mumbai. 
  * Ranked 3rd in Undergraduate Program.
