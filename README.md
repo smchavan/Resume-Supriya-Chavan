@@ -22,7 +22,13 @@ developed through education and years of teaching experience.
 Government College of Engineering, Affiliated to Dr. Babasaheb Ambedkar Marathwada University, Aurangabad, Maharashtra
 ## TECHNICAL EXPERIENCE:
 ### Software Development Bootcamp, Kal Academy, Redmond, WA		May 2019-Sept. 2019
-To refresh my Programming skills, recently, I completed a Software Development BootCamp at Kal Academy. As part of the BootCamp, I led a team of fellow participants to develop a Music Library app, using Universal Windows Platform, a console based Airline Reservation Management System using C++, and a functional event website using four micro services that supported Events, TokenService, Cart, and Order Management. Through the BootCamp projects, I was able to not only able to further hone my programming skills but also develop team work and learn new technologies like Dockerizing, Postman, and Kubernetes. Impressed with my performance during the BootCamp, I was offered a Teaching Assistant position at the Kal Academy. As a Teaching Assistant, I am helping other participants hone their algorithm and programming skills.
+  To refresh my Programming skills, recently, I completed a Software Development BootCamp at Kal Academy. As part of
+the BootCamp, I worked with a team of fellow participants to develop a Music Library app, using Universal Windows
+Platform, a console based Airline Reservation Management System using C++, and a functional event website using four
+micro services that supported Events, TokenService, Cart, and Order Management. Through the BootCamp projects, I
+was not only able to hone my programming skills but also work in a team and learn new technologies like Dockerizing,
+Postman, and Kubernetes. Impressed with my performance during the BootCamp, I was offered a Teaching Assistant
+position at the Kal Academy to help other participants hone their algorithm and programming skills.
 ## TEACHING EXPERIENCE 
 Manohar Phalke Polytechnic, Sion, Mumbai India 					2002 - 2010 
  * Head of the Computer Engineering Department 2006 - 2010 
