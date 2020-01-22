@@ -4,10 +4,10 @@
 ##                                                   Email: supriyasonvane2@gmail.com
 ## PROFILE:
  * Graduate in Computer Science and Information Technology with strong algorithms and programming foundation
-developed through education and years of teaching experience.
+   developed through education and years of teaching experience.
  * Innate Problem Solving Skills afforded by excellent Math foundation
  * Love to work in teams to achieve common goals
- * Languages: C, C++, Java, and C# ,
+ * Languages: C, C++, Java, and C# 
  * DBMS Packages: MySQL, MS SQL, PL/SQL, and Redis Cache
  * Web Technologies: HTML, CSS, DHTML, XML, XAML, and UWP App Development
  * In depth working knowledge of Dockerizing of applications using Kubernetes
@@ -17,7 +17,7 @@ developed through education and years of teaching experience.
 ### Master of Engineering in Information Technology, Mumbai University 			2003-2007
 * Graduated with distinction
 * Presented a thesis on Service Oriented Architecture
-* Developed an “Agent Based Crawler” to efficiently collect updated information from various  web servers while reducing network traffic by eliminating the need for frequent crawler visits to web servers.
+* Developed an “Agent Based Crawler” to efficiently collect updated information from various  web servers while reducing network traffic   by eliminating the need for frequent crawler visits to web servers.
 ### Bachelor of engineering (Computer Science and Engineering) 1996-2000 
 Government College of Engineering, Affiliated to Dr. Babasaheb Ambedkar Marathwada University, Aurangabad, Maharashtra
 ## TECHNICAL EXPERIENCE:
