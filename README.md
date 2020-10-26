@@ -3,7 +3,7 @@
 #                                                         Phone: +1-443-825-2399                                    
 ##                                                   Email: supriyasonvane2@gmail.com
 ## PROFILE:
- * Graduate in Computer Science and Information Technology with strong algorithms and programming foundation developed through education and years of teaching experience. 
+ * A highly driven Software Developer with strong algorithms and programming foundation developed through education and years of teaching experience. I attended KAL Academy’s Full Stack Bootcamp and working as a Teaching Assistant in the academy to help students improve their algorithmic and programming skills. I currently have experience in ASP.NET, C#, Angular, Typescript, Java, c, C++, JavaScript, HTML, CSS, and am eager to work hard to transition my career as a Full Stack SDE.
  * Languages: C, C++, Java, and C# , 
  * DBMS Packages: MySQL, MS SQL, PL/SQL, and Redis Cache
  *	Web Technologies: HTML, CSS, DHTML, XML, XAML, and UWP App Development
