@@ -4,23 +4,40 @@
 ##                                                   Email: supriyasonvane2@gmail.com
 ## PROFILE:
  * A highly driven Software Developer with strong algorithms and programming foundation developed through education and years of teaching experience. I attended KAL Academy’s Full Stack Bootcamp and working as a Teaching Assistant in the academy to help students improve their algorithmic and programming skills. I currently have experience in ASP.NET, C#, Angular, Typescript, Java, c, C++, JavaScript, HTML, CSS, and am eager to work hard to transition my career as a Full Stack SDE.
- * Languages: C, C++, Java, and C# , 
- * DBMS Packages: MySQL, MS SQL, PL/SQL, and Redis Cache
- *	Web Technologies: HTML, CSS, DHTML, XML, XAML, and UWP App Development
- *	In depth working knowledge of Dockerizing of applications using Kubernetes, Postman RabbiMq
+## TECHNICAL PROFICIENCIES:
+•	Angular, Nodejs.
+•	ASP.Net framework in C#
+•	C, C++, Java.
+•	REST API's.
+•	JavaScript, Typescript, HTML, CSS, jQuery.
+•	Experience with MSSQL, MongoDB and Redis.
+•	Microservice Frameworks.
+•	Docker, Kubernetes.
+•	MVVM architecture.
+•	GitHub, Swagger, Kanban, scrum.
+## SOFT SKILLS:
+•	Ability to analyze complex technical information
+•	Can analyze, design and implement data structures
+•	Detail oriented, Good at Code Reviews and Troubleshooting and Team player
+
 ## TECHNICAL EXPERIENCE:
 ### Software Developer at In-Consulting (Akshaya Corporation), Redmond, WA                                  	02/2020 – Present   
 Working on the feature enhancements of the developed Ecommerce application with Rest services. 
 ### TA at Kal Academy, Redmond, WA                                                                           09/2019 – Present
-Assisting the Software Development BootCamp students with their projects in UWP App Development Ecommerce application with REST API, Entity Framework Core, ASP.Net, Microservices and grading their assignments or projects. As a Teaching Assistant, I am helping other participants hone their algorithm and programming skills.
+Assisting the Software Development BootCamp students with their projects in UWP App Development Ecommerce application with REST API, Entity Framework Core, ASP.Net, Microservices and grading their assignments or projects. As a Teaching Assistant, I am helping other participants hone their algorithmic and programming skills.
  
 ## EDUCATION: 
 ### Software Development Bootcamp, Kal Academy, Redmond, WA	                            	               05/2019 – 09/2019
 #### Projects:
+•	Grocery List Manager - Provides the functionality with adding, editing, marking the completed items and deleting the item.
+•	Local Weather App - Displays the current weather for city using Open Weather Map API.
+Technology: Angular, MongoDB, Node 8.0., Git, Heroku, HTML, CSS, AJAX
+
 •	Functional EventonContainers Website using Microservices
-In this project we (team of four people) designed and developed a functional EventsOnContainers website using REST APIs also developed four micro services that supported Events, TokenService, Cart, and Order Management. I was responsible for developing end to end Event Microservice. We used MSSQL, Redis Cache for data storage and rabbitMq for messaging. We dockerized the microservices on containers and used Kubernetes for deployment.
+Modeled after Eventbrite using ASP.NET C# and Visual Studio 2019 to demonstrate full stack knowledge. Used Docker to generate containers for each microservice, including Catalog, Cart, Order, and Web MVC. API calls were used as means for communication between microservices, SQL and Redis cache were used for the data store and OAuth was used for single user authentication. Stripe was used to simulate payments. Deployment with Kubernetes.
 •	Music Library App using UWP
 •	Console based Airline Reservation System using C++
+
 ### Master of Engineering in Information Technology, Mumbai University 	(GPA 3.5)	                      07/2003 - 08/2007
 Developed an “Agent Based Crawler” to efficiently collect updated information from various web servers while        reducing network traffic by eliminating the need for frequent crawler visits to web servers.
 ### Bachelor of engineering (CSE) DR. BAM University Aurangabad India (GPA 3.85)                        07/1996 – 06/2000
