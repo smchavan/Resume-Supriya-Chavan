@@ -31,7 +31,7 @@ Assisting the Software Development BootCamp students with their projects in UWP 
 #### Projects:
 * Grocery List Manager - Provides the functionality with adding, editing, marking the completed items and deleting the item.
 * Local Weather App - Displays the current weather for city using Open Weather Map API.
-  Technology: Angular, MongoDB, Node 8.0., Git, Heroku, HTML, CSS, AJAX
+  Technology: Angular, MongoDB, Node 8.0., Git, HTML, CSS, AJAX
 * Functional EventonContainers Website using Microservices
   Developed a website EventsOnContainers which is modeled based on Eventbrite using ASP.NET C# and Visual Studio 2019 to demonstrate full stack knowledge. Used Docker to generate containers for each microservice, including     Catalog, Cart, Order, and Web MVC. API calls were used as means for communication between microservices, SQL and Redis cache were used for the data store and OAuth was used for single user authentication. Stripe was used to simulate payments. Deployment with Kubernetes.
 * Music Library App using UWP:
