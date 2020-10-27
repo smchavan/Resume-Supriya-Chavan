@@ -33,7 +33,7 @@ Assisting the Software Development BootCamp students with their projects in UWP 
 * Local Weather App - Displays the current weather for city using Open Weather Map API.
   Technology: Angular, MongoDB, Node 8.0., Git, HTML, CSS, AJAX
 * Functional EventonContainers Website using Microservices
-  Developed a website EventsOnContainers which is modeled based on Eventbrite using ASP.NET C# and Visual Studio 2019 to demonstrate full stack knowledge. Used Docker to generate containers for each microservice, including     Catalog, Cart, Order, and Web MVC. API calls were used as means for communication between microservices, SQL and Redis cache were used for the data store and OAuth was used for single user authentication. Stripe was used to simulate payments. Deployment with Kubernetes.
+  Developed a website EventsOnContainers which is modeled based on Eventbrite using ASP.NET C# and Visual Studio 2019 to demonstrate full stack knowledge. Used Docker to generate containers for each microservice, including     Catalog, Cart, Order, and Web MVC. API calls were used as means for communication between microservices, SQL and Redis cache were used for the data store and OAuth was used for single user authentication. Stripe was used to simulate payments. Deployment with Kubernetes. Video Demo : https://www.youtube.com/watch?v=XPo7xXx5Q0g&feature=youtu.be&ab_channel=SupriyaChavan
 * Music Library App using UWP:
  A Universal Windows Platform Music Library App written in C# in Visual Studio. Users can add/remove albums, add images and songs from their local machine, can make their own    paylist and play the songs in the app. Video Demo https://drive.google.com/file/d/1l41BVFnGHXoOv63pa9zWjcXIN3cGuhRr/view
 * Console based Airline Reservation System using C++
