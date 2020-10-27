@@ -5,17 +5,16 @@
 ## PROFILE:
  * A highly driven Software Developer with strong algorithms and programming foundation developed through education and years of teaching experience. I attended KAL Academy’s Full Stack Bootcamp and working as a Teaching Assistant in the academy to help students improve their algorithmic and programming skills. I currently have experience in ASP.NET, C#, Angular, Typescript, Java, c, C++, JavaScript, HTML, CSS, and am eager to work hard to transition my career as a Full Stack SDE.
 ## TECHNICAL PROFICIENCIES:
-#Bullet List
-•	Angular, Nodejs.
-•	ASP.Net framework in C#
-•	C, C++, Java.
-•	REST API's.
-•	JavaScript, Typescript, HTML, CSS, jQuery.
-•	Experience with MSSQL, MongoDB and Redis.
-•	Microservice Frameworks.
-•	Docker, Kubernetes.
-•	MVVM architecture.
-•	GitHub, Swagger, Kanban, scrum.
+* Angular, Nodejs.
+* ASP.Net framework in C#
+* C, C++, Java.
+* REST API's.
+* JavaScript, Typescript, HTML, CSS, jQuery.
+* Experience with MSSQL, MongoDB and Redis.
+* Microservice Frameworks.
+* Docker, Kubernetes.
+* MVVM architecture.
+* GitHub, Swagger, Kanban, scrum.
 ## SOFT SKILLS:
 •	Ability to analyze complex technical information
 •	Can analyze, design and implement data structures
